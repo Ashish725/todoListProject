@@ -40,9 +40,6 @@ Now, the first thing I needed to do is to set EJS as the templating engine with 
     
     with plain JavaScript. 
     
-- - - 
-Click This Link for live demo of the project. https://fast-brushlands-03705.herokuapp.com/  
-- - -
 
 
 <h2 align="center">Features</h2>
